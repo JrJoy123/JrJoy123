@@ -48,13 +48,8 @@ revenue trends, top products and categories, top customers, and data-quality
 checks that surface invalid and missing values before analysis.
 **SQL · SQLite · Joins · Aggregation · Data Quality**
 
-### [Online Quiz System](https://github.com/your-username/online-quiz-system)
-A quiz platform backed by a MySQL database — user accounts, a question bank,
-automated scoring, and a reporting module that produces scorecards and a
-ranked leaderboard.
-**Python · MySQL · SQL**
 
-### Power BI Sales Dashboard — *in progress*
+### [Power BI Sales Dashboard](https://github.com/JrJoy123/PBI_Sales_Analysis)
 An interactive dashboard visualising sales KPIs, monthly trends, and category
 performance.
 **Power BI · Data Visualization**
