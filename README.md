@@ -42,7 +42,7 @@ analytics and business intelligence.
 
 ## Featured Projects
 
-### [Retail Sales Analysis with SQL](https://github.com/your-username/retail-sales-sql-analysis)
+### [Retail Sales Analysis with SQL]([https://github.com/your-username/retail-sales-sql-analysis](https://github.com/JrJoy123/Retail_Sales_SQL_Analysis))
 Analysed an online store's sales using SQL across a four-table database —
 revenue trends, top products and categories, top customers, and data-quality
 checks that surface invalid and missing values before analysis.
